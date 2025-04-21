@@ -6,9 +6,9 @@
   <title>Free Key</title>
 </head>
 <body>
-  <h1>Aktualny klucz:</h1>
+  <h1>Actual Key</h1>
   <pre id="key-content">
-    Ładowanie...
+    Loading...
   </pre>
 
   <script>
@@ -18,7 +18,7 @@
         document.getElementById('key-content').textContent = data;
       })
       .catch(error => {
-        document.getElementById('key-content').textContent = 'Błąd w ładowaniu klucza: ' + error;
+        document.getElementById('key-content').textContent = 'Error while loading key: ' + error;
       });
   </script>
 </body>
