@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Free Key</title>
+</head>
+<body>
+  <h1>Aktualny klucz:</h1>
+  <pre id="key-content">
+    Ładowanie...
+  </pre>
+
+  <script>
+    fetch('FreeKey.txt')  // Ścieżka do pliku FreeKey.txt
+      .then(response => response.text())
+      .then(data => {
+        document.getElementById('key-content').textContent = data;
+      })
+      .catch(error => {
+        document.getElementById('key-content').textContent = 'Błąd w ładowaniu klucza: ' + error;
+      });
+  </script>
+</body>
+</html>
