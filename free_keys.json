@@ -1,14 +1,6 @@
 {
   "keys": [
     {
-      "key": "46QKYM9V",
-      "expiry": 1747938092
-    },
-    {
-      "key": "LEZK6ZP0",
-      "expiry": 1747962849
-    },
-    {
       "key": "IZW9OVYA",
       "expiry": 1747981340
     },
@@ -19,6 +11,10 @@
     {
       "key": "BOWZM6DV",
       "expiry": 1748024471
+    },
+    {
+      "key": "LAUWHSNY",
+      "expiry": 1748049250
     }
   ]
 }
