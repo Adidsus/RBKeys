@@ -1,14 +1,6 @@
 {
   "keys": [
     {
-      "key": "3T6TMBCF",
-      "expiry": 1748222447
-    },
-    {
-      "key": "GVM43DTY",
-      "expiry": 1748240390
-    },
-    {
       "key": "PN7PRIQ2",
       "expiry": 1748262479
     },
@@ -19,6 +11,10 @@
     {
       "key": "JT23USG2",
       "expiry": 1748308574
+    },
+    {
+      "key": "9SUT4PYI",
+      "expiry": 1748326998
     }
   ]
 }
