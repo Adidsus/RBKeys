@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "V70ZE79A",
-      "expiry": 1749968427
-    },
-    {
       "key": "SL2FNM6B",
       "expiry": 1749990510
     },
@@ -15,6 +11,10 @@
     {
       "key": "ULIDEO8I",
       "expiry": 1750037038
+    },
+    {
+      "key": "IE4ETSVP",
+      "expiry": 1750054837
     }
   ]
 }
