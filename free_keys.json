@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "BHERI1C8",
-      "expiry": 1751005412
-    },
-    {
       "key": "EDN76PRU",
       "expiry": 1751027563
     },
@@ -15,6 +11,10 @@
     {
       "key": "VPV2X05L",
       "expiry": 1751073432
+    },
+    {
+      "key": "T5CS4FQC",
+      "expiry": 1751091819
     }
   ]
 }
