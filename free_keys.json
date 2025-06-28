@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "VPV2X05L",
-      "expiry": 1751073432
-    },
-    {
       "key": "T5CS4FQC",
       "expiry": 1751091819
     },
@@ -19,6 +15,10 @@
     {
       "key": "UGY1GER4",
       "expiry": 1751159670
+    },
+    {
+      "key": "PK2ENEAI",
+      "expiry": 1751178042
     }
   ]
 }
