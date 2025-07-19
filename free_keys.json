@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "0DINAAJ2",
-      "expiry": 1752888023
-    },
-    {
       "key": "BX6OISZ1",
       "expiry": 1752906295
     },
@@ -19,6 +15,10 @@
     {
       "key": "KA0QX7OS",
       "expiry": 1752974300
+    },
+    {
+      "key": "PCTGBRG4",
+      "expiry": 1752992582
     }
   ]
 }
