@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "Z1TH17O1",
-      "expiry": 1753101067
-    },
-    {
       "key": "GB3PEAXS",
       "expiry": 1753122075
     },
@@ -15,6 +11,10 @@
     {
       "key": "V3RFMHRE",
       "expiry": 1753165539
+    },
+    {
+      "key": "4IDSC780",
+      "expiry": 1753187728
     }
   ]
 }
