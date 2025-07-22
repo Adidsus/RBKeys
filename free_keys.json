@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "4IDSC780",
-      "expiry": 1753187728
-    },
-    {
       "key": "FZGQZCL4",
       "expiry": 1753208679
     },
@@ -19,6 +15,10 @@
     {
       "key": "LQ5IK2Y5",
       "expiry": 1753274096
+    },
+    {
+      "key": "RXT7XP89",
+      "expiry": 1753295044
     }
   ]
 }
