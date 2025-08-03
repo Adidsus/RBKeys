@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "XYGDGWRT",
-      "expiry": 1754245324
-    },
-    {
       "key": "L7S7EWEM",
       "expiry": 1754271512
     },
@@ -15,6 +11,10 @@
     {
       "key": "XW2ICX39",
       "expiry": 1754310780
+    },
+    {
+      "key": "KXTGRS2X",
+      "expiry": 1754331754
     }
   ]
 }
