@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "KXTGRS2X",
-      "expiry": 1754331754
-    },
-    {
       "key": "RFPCMT6V",
       "expiry": 1754357300
     },
@@ -15,6 +11,10 @@
     {
       "key": "96IYTCMK",
       "expiry": 1754397417
+    },
+    {
+      "key": "COR51LOY",
+      "expiry": 1754418326
     }
   ]
 }
