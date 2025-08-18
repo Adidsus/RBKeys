@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "URIVS2N8",
-      "expiry": 1755520217
-    },
-    {
       "key": "7PY5K6T6",
       "expiry": 1755541276
     },
@@ -15,6 +11,10 @@
     {
       "key": "EJLR2JT6",
       "expiry": 1755584811
+    },
+    {
+      "key": "SK80EW9K",
+      "expiry": 1755606871
     }
   ]
 }
