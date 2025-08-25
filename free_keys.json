@@ -1,14 +1,6 @@
 {
   "keys": [
     {
-      "key": "UHQZYCLS",
-      "expiry": 1756084794
-    },
-    {
-      "key": "Y20CTTU3",
-      "expiry": 1756102890
-    },
-    {
       "key": "I2BXKB16",
       "expiry": 1756124918
     },
@@ -19,6 +11,10 @@
     {
       "key": "K57Q14XS",
       "expiry": 1756170919
+    },
+    {
+      "key": "EN51GM3X",
+      "expiry": 1756189521
     }
   ]
 }
