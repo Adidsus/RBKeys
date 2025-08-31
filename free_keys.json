@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "TGRYTYS6",
-      "expiry": 1756621174
-    },
-    {
       "key": "VG4YJG4Q",
       "expiry": 1756643244
     },
@@ -15,6 +11,10 @@
     {
       "key": "4I4TQEAN",
       "expiry": 1756689295
+    },
+    {
+      "key": "VSUHGK3C",
+      "expiry": 1756707614
     }
   ]
 }
