@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "M2SC6UKU",
-      "expiry": 1757571723
-    },
-    {
       "key": "RLF2ADH6",
       "expiry": 1757593775
     },
@@ -15,6 +11,10 @@
     {
       "key": "RGDP1AYY",
       "expiry": 1757639364
+    },
+    {
+      "key": "EE3ION89",
+      "expiry": 1757658154
     }
   ]
 }
