@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "CCFT1SW3",
-      "expiry": 1758112241
-    },
-    {
       "key": "2D9FRTBT",
       "expiry": 1758133281
     },
@@ -19,6 +15,10 @@
     {
       "key": "EK0JPSN2",
       "expiry": 1758198638
+    },
+    {
+      "key": "C0RDGLS5",
+      "expiry": 1758219667
     }
   ]
 }
