@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "PSN6JRO9",
-      "expiry": 1759947708
-    },
-    {
       "key": "EXEZ02QS",
       "expiry": 1759972095
     },
@@ -15,6 +11,10 @@
     {
       "key": "AJLDLZY6",
       "expiry": 1760013118
+    },
+    {
+      "key": "D74GFM84",
+      "expiry": 1760034141
     }
   ]
 }
