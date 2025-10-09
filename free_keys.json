@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "EXEZ02QS",
-      "expiry": 1759972095
-    },
-    {
       "key": "HP09JWUH",
       "expiry": 1759990981
     },
@@ -15,6 +11,10 @@
     {
       "key": "D74GFM84",
       "expiry": 1760034141
+    },
+    {
+      "key": "GG7PISH1",
+      "expiry": 1760058560
     }
   ]
 }
