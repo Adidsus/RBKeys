@@ -1,14 +1,6 @@
 {
   "keys": [
     {
-      "key": "UMYALCPZ",
-      "expiry": 1764700007
-    },
-    {
-      "key": "KR7UOHFA",
-      "expiry": 1764724572
-    },
-    {
       "key": "SDCVSAL1",
       "expiry": 1764743210
     },
@@ -19,6 +11,10 @@
     {
       "key": "WDZLSLIV",
       "expiry": 1764786379
+    },
+    {
+      "key": "S91GT5QS",
+      "expiry": 1764810978
     }
   ]
 }
