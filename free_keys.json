@@ -1,14 +1,6 @@
 {
   "keys": [
     {
-      "key": "WDZLSLIV",
-      "expiry": 1764786379
-    },
-    {
-      "key": "S91GT5QS",
-      "expiry": 1764810978
-    },
-    {
       "key": "U55FAICU",
       "expiry": 1764829579
     },
@@ -19,6 +11,10 @@
     {
       "key": "63NSKYKN",
       "expiry": 1764872762
+    },
+    {
+      "key": "EANL2DNZ",
+      "expiry": 1764897383
     }
   ]
 }
