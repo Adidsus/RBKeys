@@ -1,14 +1,6 @@
 {
   "keys": [
     {
-      "key": "R67XSPAX",
-      "expiry": 1766255048
-    },
-    {
-      "key": "7XMV00DE",
-      "expiry": 1766279696
-    },
-    {
       "key": "9DRB8WGQ",
       "expiry": 1766298301
     },
@@ -19,6 +11,10 @@
     {
       "key": "MSVT1PXE",
       "expiry": 1766341263
+    },
+    {
+      "key": "5B0NBK7L",
+      "expiry": 1766366625
     }
   ]
 }
