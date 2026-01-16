@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "IPVF1TBH",
-      "expiry": 1768544856
-    },
-    {
       "key": "C26G7BSA",
       "expiry": 1768567042
     },
@@ -15,6 +11,10 @@
     {
       "key": "7HZYALYN",
       "expiry": 1768612907
+    },
+    {
+      "key": "VLE8XF0K",
+      "expiry": 1768631282
     }
   ]
 }
