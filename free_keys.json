@@ -1,14 +1,6 @@
 {
   "keys": [
     {
-      "key": "HIW2U1SA",
-      "expiry": 1768786033
-    },
-    {
-      "key": "VQQMLZOO",
-      "expiry": 1768803937
-    },
-    {
       "key": "ES3FSE5K",
       "expiry": 1768825940
     },
@@ -19,6 +11,10 @@
     {
       "key": "PHHTNET0",
       "expiry": 1768872325
+    },
+    {
+      "key": "GL5RS0KA",
+      "expiry": 1768890756
     }
   ]
 }
