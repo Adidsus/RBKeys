@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "ES3FSE5K",
-      "expiry": 1768825940
-    },
-    {
       "key": "C34W51NT",
       "expiry": 1768846942
     },
@@ -15,6 +11,10 @@
     {
       "key": "GL5RS0KA",
       "expiry": 1768890756
+    },
+    {
+      "key": "BC1DO7MU",
+      "expiry": 1768912831
     }
   ]
 }
