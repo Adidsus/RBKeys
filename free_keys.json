@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "EOY23EFY",
-      "expiry": 1768933579
-    },
-    {
       "key": "GVR72KKC",
       "expiry": 1768958453
     },
@@ -15,6 +11,10 @@
     {
       "key": "GS2YW9EP",
       "expiry": 1768999235
+    },
+    {
+      "key": "0HASTTRZ",
+      "expiry": 1769020173
     }
   ]
 }
