@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "V8TV42I5",
-      "expiry": 1769430881
-    },
-    {
       "key": "ES1K6XYD",
       "expiry": 1769451873
     },
@@ -15,6 +11,10 @@
     {
       "key": "BDR58US8",
       "expiry": 1769495460
+    },
+    {
+      "key": "S0CBHSDP",
+      "expiry": 1769517556
     }
   ]
 }
