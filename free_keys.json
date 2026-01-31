@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "3MVKCZPO",
-      "expiry": 1769841698
-    },
-    {
       "key": "K24JC00P",
       "expiry": 1769863431
     },
@@ -19,6 +15,10 @@
     {
       "key": "SPO05YC5",
       "expiry": 1769927566
+    },
+    {
+      "key": "SE0SR02E",
+      "expiry": 1769949486
     }
   ]
 }
