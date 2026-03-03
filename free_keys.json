@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "BL8ZW2A7",
-      "expiry": 1772502494
-    },
-    {
       "key": "NNGXBAP6",
       "expiry": 1772520709
     },
@@ -15,6 +11,10 @@
     {
       "key": "TSBBFNCL",
       "expiry": 1772563182
+    },
+    {
+      "key": "SSF24CR1",
+      "expiry": 1772589012
     }
   ]
 }
