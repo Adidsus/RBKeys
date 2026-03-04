@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "SSF24CR1",
-      "expiry": 1772589012
-    },
-    {
       "key": "XD7M705C",
       "expiry": 1772606648
     },
@@ -19,6 +15,10 @@
     {
       "key": "FGELJNCH",
       "expiry": 1772675072
+    },
+    {
+      "key": "3TIGBDNT",
+      "expiry": 1772692832
     }
   ]
 }
