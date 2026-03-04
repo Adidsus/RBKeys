@@ -1,14 +1,6 @@
 {
   "keys": [
     {
-      "key": "XD7M705C",
-      "expiry": 1772606648
-    },
-    {
-      "key": "G7EJKWU0",
-      "expiry": 1772628261
-    },
-    {
       "key": "JUTS2W9N",
       "expiry": 1772649650
     },
@@ -19,6 +11,10 @@
     {
       "key": "3TIGBDNT",
       "expiry": 1772692832
+    },
+    {
+      "key": "RYVD73OV",
+      "expiry": 1772714786
     }
   ]
 }
