@@ -1,14 +1,6 @@
 {
   "keys": [
     {
-      "key": "MN54TWO5",
-      "expiry": 1772908654
-    },
-    {
-      "key": "QV90GSXW",
-      "expiry": 1772934068
-    },
-    {
       "key": "ZW1KIVTJ",
       "expiry": 1772951661
     },
@@ -19,6 +11,10 @@
     {
       "key": "BX4UI5YQ",
       "expiry": 1772994436
+    },
+    {
+      "key": "UOVFJDOU",
+      "expiry": 1773020902
     }
   ]
 }
