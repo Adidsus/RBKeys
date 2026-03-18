@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "LIZTV74G",
-      "expiry": 1773838927
-    },
-    {
       "key": "U5VLU7X3",
       "expiry": 1773860404
     },
@@ -19,6 +15,10 @@
     {
       "key": "DO1U4NSU",
       "expiry": 1773925299
+    },
+    {
+      "key": "BT6AXDUP",
+      "expiry": 1773946396
     }
   ]
 }
