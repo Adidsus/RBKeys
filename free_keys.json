@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "ZRTU7C53",
-      "expiry": 1776019088
-    },
-    {
       "key": "E9PCB301",
       "expiry": 1776046102
     },
@@ -15,6 +11,10 @@
     {
       "key": "VPNDKSCG",
       "expiry": 1776084811
+    },
+    {
+      "key": "J1RYOID9",
+      "expiry": 1776105632
     }
   ]
 }
