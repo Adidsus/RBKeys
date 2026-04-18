@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "6XJ87JEM",
-      "expiry": 1776517751
-    },
-    {
       "key": "DFRZDCAC",
       "expiry": 1776538451
     },
@@ -19,6 +15,10 @@
     {
       "key": "SG6FK81D",
       "expiry": 1776603229
+    },
+    {
+      "key": "9XBBOFNB",
+      "expiry": 1776624071
     }
   ]
 }
