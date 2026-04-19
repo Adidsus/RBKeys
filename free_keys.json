@@ -1,14 +1,6 @@
 {
   "keys": [
     {
-      "key": "DFRZDCAC",
-      "expiry": 1776538451
-    },
-    {
-      "key": "GKVOEV4B",
-      "expiry": 1776563967
-    },
-    {
       "key": "FX19R3F3",
       "expiry": 1776582076
     },
@@ -19,6 +11,10 @@
     {
       "key": "9XBBOFNB",
       "expiry": 1776624071
+    },
+    {
+      "key": "2KR4OS6B",
+      "expiry": 1776651182
     }
   ]
 }
