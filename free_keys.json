@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "ANHZBTO4",
-      "expiry": 1776758375
-    },
-    {
       "key": "K24BZGSB",
       "expiry": 1776777651
     },
@@ -19,6 +15,10 @@
     {
       "key": "GHSESK73",
       "expiry": 1776842903
+    },
+    {
+      "key": "761D61LU",
+      "expiry": 1776863756
     }
   ]
 }
