@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "2AAA7DH6",
-      "expiry": 1777793149
-    },
-    {
       "key": "K31FUPT2",
       "expiry": 1777813236
     },
@@ -15,6 +11,10 @@
     {
       "key": "QXMAG37P",
       "expiry": 1777861937
+    },
+    {
+      "key": "6SG7IITV",
+      "expiry": 1777881357
     }
   ]
 }
