@@ -1,14 +1,6 @@
 {
   "keys": [
     {
-      "key": "QXMAG37P",
-      "expiry": 1777861937
-    },
-    {
-      "key": "6SG7IITV",
-      "expiry": 1777881357
-    },
-    {
       "key": "D5TGG9A4",
       "expiry": 1777899606
     },
@@ -19,6 +11,10 @@
     {
       "key": "KFMAVGT2",
       "expiry": 1777948227
+    },
+    {
+      "key": "LSHMCB1F",
+      "expiry": 1777969432
     }
   ]
 }
