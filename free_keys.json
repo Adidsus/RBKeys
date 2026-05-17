@@ -1,14 +1,6 @@
 {
   "keys": [
     {
-      "key": "1WSGPATR",
-      "expiry": 1779023591
-    },
-    {
-      "key": "CFQGNOVT",
-      "expiry": 1779044307
-    },
-    {
       "key": "L7YC0ELU",
       "expiry": 1779072137
     },
@@ -19,6 +11,10 @@
     {
       "key": "4TBLIE3R",
       "expiry": 1779109832
+    },
+    {
+      "key": "O8ZXH3N9",
+      "expiry": 1779130924
     }
   ]
 }
