@@ -1,14 +1,6 @@
 {
   "keys": [
     {
-      "key": "BH888FPI",
-      "expiry": 1779203993
-    },
-    {
-      "key": "VYO2RPWZ",
-      "expiry": 1779219583
-    },
-    {
       "key": "7HEXO3IC",
       "expiry": 1779245360
     },
@@ -19,6 +11,10 @@
     {
       "key": "SYWPVELK",
       "expiry": 1779288653
+    },
+    {
+      "key": "X8J60TL6",
+      "expiry": 1779306433
     }
   ]
 }
