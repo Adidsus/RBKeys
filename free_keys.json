@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "AWT79RAY",
-      "expiry": 1780670918
-    },
-    {
       "key": "0GKLPGGF",
       "expiry": 1780689530
     },
@@ -19,6 +15,10 @@
     {
       "key": "CEMTM89O",
       "expiry": 1780756768
+    },
+    {
+      "key": "2VO3VAF2",
+      "expiry": 1780775262
     }
   ]
 }
