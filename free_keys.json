@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "GATRWJTZ",
-      "expiry": 1781729078
-    },
-    {
       "key": "D919G2M9",
       "expiry": 1781753871
     },
@@ -19,6 +15,10 @@
     {
       "key": "3GP5GJBE",
       "expiry": 1781813208
+    },
+    {
+      "key": "H9XK5YXI",
+      "expiry": 1781839819
     }
   ]
 }
