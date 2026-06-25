@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "MWGTYBQ2",
-      "expiry": 1782355759
-    },
-    {
       "key": "8V3SMDKX",
       "expiry": 1782379215
     },
@@ -19,6 +15,10 @@
     {
       "key": "5X2011TA",
       "expiry": 1782442140
+    },
+    {
+      "key": "WB740JFO",
+      "expiry": 1782464028
     }
   ]
 }
