@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "DUI38LY1",
-      "expiry": 1782635418
-    },
-    {
       "key": "DS826CTF",
       "expiry": 1782652998
     },
@@ -15,6 +11,10 @@
     {
       "key": "4D7D7HHN",
       "expiry": 1782703396
+    },
+    {
+      "key": "ZEZ58QBG",
+      "expiry": 1782722723
     }
   ]
 }
