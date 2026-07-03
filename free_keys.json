@@ -1,14 +1,6 @@
 {
   "keys": [
     {
-      "key": "VV35JJ5D",
-      "expiry": 1783046981
-    },
-    {
-      "key": "SLDC69MR",
-      "expiry": 1783068522
-    },
-    {
       "key": "4EOUCEG8",
       "expiry": 1783086501
     },
@@ -19,6 +11,10 @@
     {
       "key": "5P5EHXO4",
       "expiry": 1783132353
+    },
+    {
+      "key": "CPHJHMQY",
+      "expiry": 1783155312
     }
   ]
 }
