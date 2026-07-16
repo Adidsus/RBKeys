@@ -14,7 +14,7 @@ if not api_token:
     print("❌ Brak LOOTLABS_API_TOKEN")
     sys.exit(1)
 
-url = "https://be.lootlabs.gg/api/lootlabs/content_locker"
+url = "https://creators.lootlabs.gg/api/public/content_locker"
 headers = {"Authorization": f"Bearer {api_token}"}
 data = {
     "title": "Free Key",
@@ -34,7 +34,7 @@ for attempt in range(1, 4):
 
         r.raise_for_status()
         res_json = r.json()
-        loot_url = res_json["message"][0]["loot_url"]
+        loot_url = res_json["message"]["loot_url"]
 
         os.makedirs("rbkeys", exist_ok=True)
         with open("rbkeys/lootlabslink.txt", "w", encoding="utf-8") as f:
