@@ -5,19 +5,41 @@ on:
   schedule:
     - cron: "0 */6 * * *"
 
-jobs:
-  run:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+permissions:
+  contents: write
 
-      - uses: actions/setup-python@v5
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - run: pip install requests
+      - name: Install deps
+        run: pip install requests
 
       - name: Generate Lootlabs link
         env:
           LOOTLABS_API_TOKEN: ${{ secrets.LOOTLABS_API_TOKEN }}
         run: python .github/workflows/generate_lootlabs_link.py TEST_KEY
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add rbkeys/lootlabslink.txt
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "chore: update lootlabs link"
+          git push
