@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "0PU5J0G9",
-      "expiry": 1784487359
-    },
-    {
       "key": "GLZ79V4C",
       "expiry": 1784513573
     },
@@ -15,6 +11,10 @@
     {
       "key": "BNTC7U35",
       "expiry": 1784552779
+    },
+    {
+      "key": "THXXI2CV",
+      "expiry": 1784573940
     }
   ]
 }
