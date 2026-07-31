@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "P5PINNOT",
-      "expiry": 1785485776
-    },
-    {
       "key": "0UUK7DTJ",
       "expiry": 1785505659
     },
@@ -15,6 +11,10 @@
     {
       "key": "CQMZWTGV",
       "expiry": 1785551003
+    },
+    {
+      "key": "MRNBC4X9",
+      "expiry": 1785573726
     }
   ]
 }
