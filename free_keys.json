@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "CNKSLBFO",
-      "expiry": 1785723691
-    },
-    {
       "key": "ARS4G6DP",
       "expiry": 1785744831
     },
@@ -15,6 +11,10 @@
     {
       "key": "FU24M88E",
       "expiry": 1785783750
+    },
+    {
+      "key": "PR2E5PRW",
+      "expiry": 1785810232
     }
   ]
 }
