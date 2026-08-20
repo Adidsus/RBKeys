@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "GOD290TL",
-      "expiry": 1787250408
-    },
-    {
       "key": "NLDHH0LA",
       "expiry": 1787273825
     },
@@ -15,6 +11,10 @@
     {
       "key": "UUSM5KZ1",
       "expiry": 1787315837
+    },
+    {
+      "key": "OGVKCK0G",
+      "expiry": 1787337076
     }
   ]
 }
