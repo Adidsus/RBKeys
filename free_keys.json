@@ -1,14 +1,6 @@
 {
   "keys": [
     {
-      "key": "XERKY9EF",
-      "expiry": 1789055329
-    },
-    {
-      "key": "SD4FDGPX",
-      "expiry": 1789071534
-    },
-    {
       "key": "2VPARL48",
       "expiry": 1789094918
     },
@@ -19,6 +11,10 @@
     {
       "key": "CK3UGTXQ",
       "expiry": 1789141449
+    },
+    {
+      "key": "9ZC5NPC2",
+      "expiry": 1789158071
     }
   ]
 }
