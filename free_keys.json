@@ -1,14 +1,6 @@
 {
   "keys": [
     {
-      "key": "GT3WMF7N",
-      "expiry": 1789267878
-    },
-    {
-      "key": "IH3Q4WGN",
-      "expiry": 1789293480
-    },
-    {
       "key": "6XSGF7CT",
       "expiry": 1789311198
     },
@@ -19,6 +11,10 @@
     {
       "key": "KRGZ0W5R",
       "expiry": 1789354197
+    },
+    {
+      "key": "J3G1YZ6X",
+      "expiry": 1789383575
     }
   ]
 }
