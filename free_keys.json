@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "RQ01600X",
-      "expiry": 1791635315
-    },
-    {
       "key": "CEU9JRHC",
       "expiry": 1791670179
     },
@@ -15,6 +11,10 @@
     {
       "key": "DC3CQFP9",
       "expiry": 1791719265
+    },
+    {
+      "key": "6BQP1ZR6",
+      "expiry": 1791737470
     }
   ]
 }
