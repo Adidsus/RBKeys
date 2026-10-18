@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "Z45I4R8I",
-      "expiry": 1792317787
-    },
-    {
       "key": "LUK4ARZW",
       "expiry": 1792335075
     },
@@ -15,6 +11,10 @@
     {
       "key": "D935GSEO",
       "expiry": 1792377957
+    },
+    {
+      "key": "F3SORC4E",
+      "expiry": 1792404970
     }
   ]
 }
