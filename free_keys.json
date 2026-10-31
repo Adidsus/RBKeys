@@ -1,10 +1,6 @@
 {
   "keys": [
     {
-      "key": "NM7BFZ3Z",
-      "expiry": 1793398894
-    },
-    {
       "key": "EZ618VA1",
       "expiry": 1793419532
     },
@@ -15,6 +11,10 @@
     {
       "key": "GA6X8VXZ",
       "expiry": 1793483590
+    },
+    {
+      "key": "6K8FT5OE",
+      "expiry": 1793504970
     }
   ]
 }
